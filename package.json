@@ -25,11 +25,14 @@
   },
   "homepage": "https://github.com/cop1fab/inventory#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "ejs": "^2.7.1",
     "express": "^4.17.1"
   },
   "devDependencies": {
+    "@types/dotenv": "^8.2.0",
     "@types/express": "^4.17.2",
+    "@types/express-session": "^1.15.15",
     "@types/fs-extra": "^8.0.1",
     "@types/node": "^12.12.6",
     "@types/shelljs": "^0.8.6",
