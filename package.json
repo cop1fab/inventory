@@ -1,0 +1,22 @@
+{
+  "name": "inventory",
+  "version": "1.0.0",
+  "description": "This is a car tyre inventory application built with #NodeJs, #Express, #EJS, #Postgres, #Vue, #Materialize, #Axios, #Okta & #TypeScript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cop1fab/inventory.git"
+  },
+  "author": "Dr. Copain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cop1fab/inventory/issues"
+  },
+  "homepage": "https://github.com/cop1fab/inventory#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
