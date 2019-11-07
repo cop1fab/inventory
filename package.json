@@ -4,6 +4,7 @@
   "description": "This is a car tyre inventory application built with #NodeJs, #Express, #EJS, #Postgres, #Vue, #Materialize, #Axios, #Okta & #TypeScript ",
   "main": "index.js",
   "scripts": {
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,9 @@
   "homepage": "https://github.com/cop1fab/inventory#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.2"
   }
 }
